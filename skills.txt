@@ -1,0 +1,10 @@
+Mobile Testing
+ADB
+Android Studio
+Git, GitBash, GitHub
+POstman
+DB Postresql
+Charles
+Fiddler
+JMeter
+Web Testing
