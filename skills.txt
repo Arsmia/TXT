@@ -7,4 +7,3 @@ DB Postresql
 Charles
 Fiddler
 JMeter
-Web Testing
